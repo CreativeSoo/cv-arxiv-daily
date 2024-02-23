@@ -179,7 +179,7 @@ if __name__ == "__main__":
     data_collector_web= []
     
     keywords = dict()
-    keywords["3d instance segmentation"] = "\"3d instance segmentation\"OR\"Segment anything 3D\"OR\"Segmentation 3D Instance\"OR\"SAM 3D Instance\""
+    keywords["3d instance segmentation"] = "\"group anything\"OR\"3d instance segmentation\"OR\"Segment anything 3D\"OR\"Segmentation 3D Instance\"OR\"SAM 3D Instance\""
     # keywords["6DOF Object Pose"] = "\"Object Pose Estimation\"OR\"object 6D pose estimation\""
     # keywords["NeRF"] = "\"NeRF\"OR\"Radiance Fields\""
 
