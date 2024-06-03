@@ -1,4 +1,4 @@
-## Updated on 2024.06.02
+## Updated on 2024.06.03
 
 ## 3d instance segmentation
 
