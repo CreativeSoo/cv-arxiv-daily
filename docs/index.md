@@ -2,12 +2,13 @@
 layout: default
 ---
 
-## Updated on 2024.06.04
+## Updated on 2024.06.05
 
 ## 3d instance segmentation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-04**|**Open-YOLO 3D: Towards Fast and Accurate Open-Vocabulary 3D Instance Segmentation**|Mohamed El Amine Boudjoghra et.al.|[2406.02548v1](http://arxiv.org/abs/2406.02548v1)|**[link](https://github.com/aminebdj/openyolo3d)**|
 |**2024-05-29**|**Reasoning3D -- Grounding and Reasoning in 3D: Fine-Grained Zero-Shot Open-Vocabulary 3D Reasoning Part Segmentation via Large Vision-Language Models**|Tianrun Chen et.al.|[2405.19326v1](http://arxiv.org/abs/2405.19326v1)|null|
 |**2024-04-18**|**Spot-Compose: A Framework for Open-Vocabulary Object Retrieval and Drawer Manipulation in Point Clouds**|Oliver Lemke et.al.|[2404.12440v1](http://arxiv.org/abs/2404.12440v1)|null|
 |**2024-04-02**|**Segment Any 3D Object with Language**|Seungjun Lee et.al.|[2404.02157v1](http://arxiv.org/abs/2404.02157v1)|null|
@@ -37,5 +38,4 @@ layout: default
 |**2023-06-23**|**OpenMask3D: Open-Vocabulary 3D Instance Segmentation**|Ayça Takmaz et.al.|[2306.13631v2](http://arxiv.org/abs/2306.13631v2)|**[link](https://github.com/OpenMask3D/openmask3d)**|
 |**2023-04-24**|**Fully Sparse Fusion for 3D Object Detection**|Yingyan Li et.al.|[2304.12310v3](http://arxiv.org/abs/2304.12310v3)|**[link](https://github.com/bravegroup/fullysparsefusion)**|
 |**2023-04-10**|**Instance Neural Radiance Field**|Yichen Liu et.al.|[2304.04395v3](http://arxiv.org/abs/2304.04395v3)|**[link](https://github.com/lyclyc52/instance_nerf)**|
-|**2023-03-26**|**You Only Need One Thing One Click: Self-Training for Weakly Supervised 3D Scene Understanding**|Zhengzhe Liu et.al.|[2303.14727v2](http://arxiv.org/abs/2303.14727v2)|**[link](https://github.com/liuzhengzhe/One-Thing-One-Click)**|
 
