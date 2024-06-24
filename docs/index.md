@@ -2,12 +2,13 @@
 layout: default
 ---
 
-## Updated on 2024.06.23
+## Updated on 2024.06.24
 
 ## 3d instance segmentation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-19**|**3D Instance Segmentation Using Deep Learning on RGB-D Indoor Data**|Siddiqui Muhammad Yasir et.al.|[2406.14581v1](http://arxiv.org/abs/2406.14581v1)|null|
 |**2024-06-11**|**PanoSSC: Exploring Monocular Panoptic 3D Scene Reconstruction for Autonomous Driving**|Yining Shi et.al.|[2406.07037v1](http://arxiv.org/abs/2406.07037v1)|null|
 |**2024-06-04**|**Open-YOLO 3D: Towards Fast and Accurate Open-Vocabulary 3D Instance Segmentation**|Mohamed El Amine Boudjoghra et.al.|[2406.02548v2](http://arxiv.org/abs/2406.02548v2)|**[link](https://github.com/aminebdj/openyolo3d)**|
 |**2024-05-29**|**Reasoning3D -- Grounding and Reasoning in 3D: Fine-Grained Zero-Shot Open-Vocabulary 3D Reasoning Part Segmentation via Large Vision-Language Models**|Tianrun Chen et.al.|[2405.19326v1](http://arxiv.org/abs/2405.19326v1)|null|
@@ -37,5 +38,4 @@ layout: default
 |**2023-07-15**|**PSGformer: Enhancing 3D Point Cloud Instance Segmentation via Precise Semantic Guidance**|Lei Pan et.al.|[2307.07708v1](http://arxiv.org/abs/2307.07708v1)|null|
 |**2023-07-13**|**AnyStar: Domain randomized universal star-convex 3D instance segmentation**|Neel Dey et.al.|[2307.07044v1](http://arxiv.org/abs/2307.07044v1)|**[link](https://github.com/neel-dey/anystar)**|
 |**2023-06-23**|**OpenMask3D: Open-Vocabulary 3D Instance Segmentation**|Ayça Takmaz et.al.|[2306.13631v2](http://arxiv.org/abs/2306.13631v2)|**[link](https://github.com/OpenMask3D/openmask3d)**|
-|**2023-04-24**|**Fully Sparse Fusion for 3D Object Detection**|Yingyan Li et.al.|[2304.12310v3](http://arxiv.org/abs/2304.12310v3)|**[link](https://github.com/bravegroup/fullysparsefusion)**|
 
