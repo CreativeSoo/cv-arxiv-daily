@@ -1,4 +1,4 @@
-## Updated on 2024.07.07
+## Updated on 2024.07.08
 
 ## 3d instance segmentation
 
@@ -21,7 +21,7 @@
 |**2024-01-06**|**Multi-View 3D Instance Segmentation of Structural Anomalies for Enhanced Structural Inspection of Concrete Bridges**|Christian Benz et.al.|[2401.03298v1](http://arxiv.org/abs/2401.03298v1)|null|
 |**2024-01-04**|**ODIN: A Single Model for 2D and 3D Segmentation**|Ayush Jain et.al.|[2401.02416v3](http://arxiv.org/abs/2401.02416v3)|**[link](https://github.com/ayushjain1144/odin)**|
 |**2023-12-17**|**SAI3D: Segment Any Instance in 3D Scenes**|Yingda Yin et.al.|[2312.11557v2](http://arxiv.org/abs/2312.11557v2)|null|
-|**2023-12-18**|**Spherical Mask: Coarse-to-Fine 3D Point Cloud Instance Segmentation with Spherical Representation**|Sangyun Shin et.al.|[2312.11269v1](http://arxiv.org/abs/2312.11269v1)|**[link](https://github.com/yunshin/SphericalMask)**|
+|**2023-12-18**|**Spherical Mask: Coarse-to-Fine 3D Point Cloud Instance Segmentation with Spherical Representation**|Sangyun Shin et.al.|[2312.11269v2](http://arxiv.org/abs/2312.11269v2)|**[link](https://github.com/yunshin/SphericalMask)**|
 |**2023-12-17**|**Open3DIS: Open-Vocabulary 3D Instance Segmentation with 2D Mask Guidance**|Phuc D. A. Nguyen et.al.|[2312.10671v3](http://arxiv.org/abs/2312.10671v3)|**[link](https://github.com/VinAIResearch/Open3DIS)**|
 |**2023-12-13**|**SAM-guided Graph Cut for 3D Instance Segmentation**|Haoyu Guo et.al.|[2312.08372v2](http://arxiv.org/abs/2312.08372v2)|null|
 |**2023-12-12**|**MWSIS: Multimodal Weakly Supervised Instance Segmentation with 2D Box Annotations for Autonomous Driving**|Guangfeng Jiang et.al.|[2312.06988v4](http://arxiv.org/abs/2312.06988v4)|**[link](https://github.com/jiangxb98/mwsis-plugin)**|
