@@ -1,9 +1,11 @@
-## Updated on 2024.07.09
+## Updated on 2024.07.10
 
 ## 3d instance segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-09**|**Improved Block Merging for 3D Point Cloud Instance Segmentation**|Leon Denis et.al.|[2407.06991v1](http://arxiv.org/abs/2407.06991v1)|null|
+|**2024-07-09**|**Joint prototype and coefficient prediction for 3D instance segmentation**|Remco Royen et.al.|[2407.06958v1](http://arxiv.org/abs/2407.06958v1)|null|
 |**2024-06-26**|**3D Feature Distillation with Object-Centric Priors**|Georgios Tziafas et.al.|[2406.18742v2](http://arxiv.org/abs/2406.18742v2)|null|
 |**2024-06-24**|**Instance Consistency Regularization for Semi-Supervised 3D Instance Segmentation**|Yizheng Wu et.al.|[2406.16776v1](http://arxiv.org/abs/2406.16776v1)|**[link](https://github.com/w1zheng/insteacher3d)**|
 |**2024-06-19**|**3D Instance Segmentation Using Deep Learning on RGB-D Indoor Data**|Siddiqui Muhammad Yasir et.al.|[2406.14581v1](http://arxiv.org/abs/2406.14581v1)|null|
@@ -32,6 +34,4 @@
 |**2023-09-04**|**Mask-Attention-Free Transformer for 3D Instance Segmentation**|Xin Lai et.al.|[2309.01692v1](http://arxiv.org/abs/2309.01692v1)|**[link](https://github.com/dvlab-research/mask-attention-free-transformer)**|
 |**2023-08-03**|**Weakly Supervised 3D Instance Segmentation without Instance-level Annotations**|Shichao Dong et.al.|[2308.01721v1](http://arxiv.org/abs/2308.01721v1)|null|
 |**2023-07-25**|**GaPro: Box-Supervised 3D Point Cloud Instance Segmentation Using Gaussian Processes as Pseudo Labelers**|Tuan Duc Ngo et.al.|[2307.13251v1](http://arxiv.org/abs/2307.13251v1)|**[link](https://github.com/vinairesearch/gapro)**|
-|**2023-07-19**|**ClickSeg: 3D Instance Segmentation with Click-Level Weak Annotations**|Leyao Liu et.al.|[2307.09732v1](http://arxiv.org/abs/2307.09732v1)|null|
-|**2023-07-15**|**PSGformer: Enhancing 3D Point Cloud Instance Segmentation via Precise Semantic Guidance**|Lei Pan et.al.|[2307.07708v1](http://arxiv.org/abs/2307.07708v1)|null|
 
