@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.04
+## Updated on 2024.08.05
 
 ## 3d instance segmentation
 
@@ -31,7 +31,7 @@ layout: default
 |**2023-12-17**|**SAI3D: Segment Any Instance in 3D Scenes**|Yingda Yin et.al.|[2312.11557v2](http://arxiv.org/abs/2312.11557v2)|null|
 |**2023-12-18**|**Spherical Mask: Coarse-to-Fine 3D Point Cloud Instance Segmentation with Spherical Representation**|Sangyun Shin et.al.|[2312.11269v2](http://arxiv.org/abs/2312.11269v2)|**[link](https://github.com/yunshin/SphericalMask)**|
 |**2023-12-17**|**Open3DIS: Open-Vocabulary 3D Instance Segmentation with 2D Mask Guidance**|Phuc D. A. Nguyen et.al.|[2312.10671v3](http://arxiv.org/abs/2312.10671v3)|**[link](https://github.com/VinAIResearch/Open3DIS)**|
-|**2023-12-13**|**SAM-guided Graph Cut for 3D Instance Segmentation**|Haoyu Guo et.al.|[2312.08372v2](http://arxiv.org/abs/2312.08372v2)|null|
+|**2023-12-13**|**SAM-guided Graph Cut for 3D Instance Segmentation**|Haoyu Guo et.al.|[2312.08372v3](http://arxiv.org/abs/2312.08372v3)|null|
 |**2023-12-12**|**MWSIS: Multimodal Weakly Supervised Instance Segmentation with 2D Box Annotations for Autonomous Driving**|Guangfeng Jiang et.al.|[2312.06988v4](http://arxiv.org/abs/2312.06988v4)|**[link](https://github.com/jiangxb98/mwsis-plugin)**|
 |**2023-12-09**|**EipFormer: Emphasizing Instance Positions in 3D Instance Segmentation**|Mengnan Zhao et.al.|[2312.05602v1](http://arxiv.org/abs/2312.05602v1)|null|
 |**2023-12-05**|**PartSLIP++: Enhancing Low-Shot 3D Part Segmentation via Multi-View Instance Segmentation and Maximum Likelihood Estimation**|Yuchen Zhou et.al.|[2312.03015v1](http://arxiv.org/abs/2312.03015v1)|**[link](https://github.com/zyc00/partslip2)**|
