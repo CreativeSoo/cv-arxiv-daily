@@ -2,12 +2,13 @@
 layout: default
 ---
 
-## Updated on 2024.08.20
+## Updated on 2024.08.21
 
 ## 3d instance segmentation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**Vocabulary-Free 3D Instance Segmentation with Vision and Language Assistant**|Guofeng Mei et.al.|[2408.10652v1](http://arxiv.org/abs/2408.10652v1)|null|
 |**2024-08-16**|**Zero-Shot Dual-Path Integration Framework for Open-Vocabulary 3D Instance Segmentation**|Tri Ton et.al.|[2408.08591v1](http://arxiv.org/abs/2408.08591v1)|null|
 |**2024-07-16**|**SGIFormer: Semantic-guided and Geometric-enhanced Interleaving Transformer for 3D Instance Segmentation**|Lei Yao et.al.|[2407.11564v1](http://arxiv.org/abs/2407.11564v1)|null|
 |**2024-07-14**|**Part2Object: Hierarchical Unsupervised 3D Instance Segmentation**|Cheng Shi et.al.|[2407.10084v1](http://arxiv.org/abs/2407.10084v1)|**[link](https://github.com/chengshiest/part2object)**|
@@ -37,5 +38,4 @@ layout: default
 |**2023-12-09**|**EipFormer: Emphasizing Instance Positions in 3D Instance Segmentation**|Mengnan Zhao et.al.|[2312.05602v1](http://arxiv.org/abs/2312.05602v1)|null|
 |**2023-12-05**|**PartSLIP++: Enhancing Low-Shot 3D Part Segmentation via Multi-View Instance Segmentation and Maximum Likelihood Estimation**|Yuchen Zhou et.al.|[2312.03015v1](http://arxiv.org/abs/2312.03015v1)|**[link](https://github.com/zyc00/partslip2)**|
 |**2023-09-25**|**3D Indoor Instance Segmentation in an Open-World**|Mohamed El Amine Boudjoghra et.al.|[2309.14338v1](http://arxiv.org/abs/2309.14338v1)|**[link](https://github.com/aminebdj/3d-owis)**|
-|**2023-09-08**|**Four Ways to Improve Verbo-visual Fusion for Dense 3D Visual Grounding**|Ozan Unal et.al.|[2309.04561v3](http://arxiv.org/abs/2309.04561v3)|null|
 
