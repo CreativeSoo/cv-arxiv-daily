@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.11
+## Updated on 2024.09.12
 
 ## 3d instance segmentation
 
