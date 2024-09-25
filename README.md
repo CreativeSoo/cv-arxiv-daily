@@ -1,4 +1,4 @@
-## Updated on 2024.09.24
+## Updated on 2024.09.25
 
 ## 3d instance segmentation
 
@@ -34,4 +34,39 @@
 |**2023-12-17**|**Open3DIS: Open-Vocabulary 3D Instance Segmentation with 2D Mask Guidance**|Phuc D. A. Nguyen et.al.|[2312.10671v3](http://arxiv.org/abs/2312.10671v3)|**[link](https://github.com/VinAIResearch/Open3DIS)**|
 |**2023-12-13**|**SAM-guided Graph Cut for 3D Instance Segmentation**|Haoyu Guo et.al.|[2312.08372v3](http://arxiv.org/abs/2312.08372v3)|null|
 |**2023-12-12**|**MWSIS: Multimodal Weakly Supervised Instance Segmentation with 2D Box Annotations for Autonomous Driving**|Guangfeng Jiang et.al.|[2312.06988v4](http://arxiv.org/abs/2312.06988v4)|**[link](https://github.com/jiangxb98/mwsis-plugin)**|
+
+## semantic slam
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2024-08-27**|**Active Semantic Mapping and Pose Graph Spectral Analysis for Robot Exploration**|Rongge Zhang et.al.|[2408.14726v2](http://arxiv.org/abs/2408.14726v2)|**[link](https://github.com/BohemianRhapsodyz/semantic_exploration)**|
+|**2024-06-25**|**SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation**|Xu Liu et.al.|[2406.17249v3](http://arxiv.org/abs/2406.17249v3)|null|
+|**2024-06-09**|**MAP-ADAPT: Real-Time Quality-Adaptive Semantic 3D Maps**|Jianhao Zheng et.al.|[2406.05849v1](http://arxiv.org/abs/2406.05849v1)|null|
+|**2024-03-19**|**Opti-Acoustic Semantic SLAM with Unknown Objects in Underwater Environments**|Kurran Singh et.al.|[2403.12837v2](http://arxiv.org/abs/2403.12837v2)|null|
+|**2024-03-18**|**NEDS-SLAM: A Neural Explicit Dense Semantic SLAM Framework using 3D Gaussian Splatting**|Yiming Ji et.al.|[2403.11679v3](http://arxiv.org/abs/2403.11679v3)|null|
+|**2024-03-12**|**SemGauss-SLAM: Dense Semantic Gaussian Splatting SLAM**|Siting Zhu et.al.|[2403.07494v3](http://arxiv.org/abs/2403.07494v3)|null|
+|**2024-02-28**|**SD-SLAM: A Semantic SLAM Approach for Dynamic Scenes Based on LiDAR Point Clouds**|Feiya Li et.al.|[2402.18318v1](http://arxiv.org/abs/2402.18318v1)|null|
+|**2024-02-21**|**Khronos: A Unified Approach for Spatio-Temporal Metric-Semantic SLAM in Dynamic Environments**|Lukas Schmid et.al.|[2402.13817v2](http://arxiv.org/abs/2402.13817v2)|**[link](https://github.com/mit-spark/khronos)**|
+|**2024-01-12**|**Kimera2: Robust and Accurate Metric-Semantic SLAM in the Real World**|Marcus Abate et.al.|[2401.06323v1](http://arxiv.org/abs/2401.06323v1)|null|
+|**2023-11-30**|**DNS SLAM: Dense Neural Semantic-Informed SLAM**|Kunyi Li et.al.|[2312.00204v1](http://arxiv.org/abs/2312.00204v1)|null|
+|**2023-11-21**|**Towards Accurate Loop Closure Detection in Semantic SLAM with 3D Semantic Covisibility Graphs**|Zhentian Qian et.al.|[2311.12245v1](http://arxiv.org/abs/2311.12245v1)|null|
+|**2023-11-18**|**SNI-SLAM: Semantic Neural Implicit SLAM**|Siting Zhu et.al.|[2311.11016v3](http://arxiv.org/abs/2311.11016v3)|**[link](https://github.com/irmvlab/sni-slam)**|
+|**2023-10-10**|**3DS-SLAM: A 3D Object Detection based Semantic SLAM towards Dynamic Indoor Environments**|Ghanta Sai Krishna et.al.|[2310.06385v1](http://arxiv.org/abs/2310.06385v1)|null|
+|**2023-09-25**|**Preferential Multi-Target Search in Indoor Environments using Semantic SLAM**|Akash Chikhalikar et.al.|[2309.14063v3](http://arxiv.org/abs/2309.14063v3)|null|
+|**2023-09-13**|**3D Active Metric-Semantic SLAM**|Yuezhan Tao et.al.|[2309.06950v3](http://arxiv.org/abs/2309.06950v3)|null|
+|**2023-06-07**|**Towards Decentralized Heterogeneous Multi-Robot SLAM and Target Tracking**|Ofer Dagan et.al.|[2306.04570v1](http://arxiv.org/abs/2306.04570v1)|null|
+|**2023-05-05**|**Multi S-graphs: A Collaborative Semantic SLAM architecture**|Miguel Fernandez-Cortizas et.al.|[2305.03441v1](http://arxiv.org/abs/2305.03441v1)|null|
+|**2023-04-27**|**Neural Implicit Dense Semantic SLAM**|Yasaman Haghighi et.al.|[2304.14560v2](http://arxiv.org/abs/2304.14560v2)|null|
+|**2023-02-26**|**Autonomous Search of Semantic Objects in Unknown Environments**|Zhentian Qian et.al.|[2302.13236v2](http://arxiv.org/abs/2302.13236v2)|null|
+|**2022-10-01**|**Det-SLAM: A semantic visual SLAM for highly dynamic scenes using Detectron2**|Ali Eslamian et.al.|[2210.00278v1](http://arxiv.org/abs/2210.00278v1)|null|
+|**2022-09-22**|**SQ-SLAM: Monocular Semantic SLAM Based on Superquadric Object Representation**|Xiao Han et.al.|[2209.10817v1](http://arxiv.org/abs/2209.10817v1)|null|
+|**2022-09-16**|**TwistSLAM++: Fusing multiple modalities for accurate dynamic semantic SLAM**|Mathieu Gonzalez et.al.|[2209.07888v2](http://arxiv.org/abs/2209.07888v2)|null|
+|**2022-07-19**|**Hybrid Belief Pruning with Guarantees for Viewpoint-Dependent Semantic SLAM**|Tuvy Lemberg et.al.|[2207.09103v1](http://arxiv.org/abs/2207.09103v1)|null|
+|**2022-06-21**|**Object Structural Points Representation for Graph-based Semantic Monocular Localization and Mapping**|Davide Tateo et.al.|[2206.10263v1](http://arxiv.org/abs/2206.10263v1)|**[link](https://github.com/airlab-polimi/c-slam)**|
+|**2022-05-09**|**Multi-modal Semantic SLAM for Complex Dynamic Environments**|Han Wang et.al.|[2205.04300v2](http://arxiv.org/abs/2205.04300v2)|**[link](https://github.com/wh200720041/mms_slam)**|
+|**2022-04-12**|**RGB-D Semantic SLAM for Surgical Robot Navigation in the Operating Room**|Cong Gao et.al.|[2204.05467v1](http://arxiv.org/abs/2204.05467v1)|null|
+|**2022-02-25**|**Probabilistic Data Association for Semantic SLAM at Scale**|Elad Michael et.al.|[2202.12802v1](http://arxiv.org/abs/2202.12802v1)|**[link](https://github.com/eladmichael/probabilisticsemslam)**|
+|**2021-09-28**|**KITTI-360: A Novel Dataset and Benchmarks for Urban Scene Understanding in 2D and 3D**|Yiyi Liao et.al.|[2109.13410v2](http://arxiv.org/abs/2109.13410v2)|**[link](https://github.com/autonomousvision/kitti360labeltool)**|
+|**2021-09-20**|**Superquadric Object Representation for Optimization-based Semantic SLAM**|Florian Tschopp et.al.|[2109.09627v1](http://arxiv.org/abs/2109.09627v1)|null|
+|**2021-09-16**|**Evaluating the Impact of Semantic Segmentation and Pose Estimation on Dense Semantic SLAM**|Suman Raj Bista et.al.|[2109.07748v1](http://arxiv.org/abs/2109.07748v1)|null|
 
