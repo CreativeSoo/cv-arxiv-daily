@@ -180,6 +180,7 @@ if __name__ == "__main__":
     
     keywords = dict()
     keywords["3d instance segmentation"] = "\"group anything\"OR\"3d instance segmentation\"OR\"Segment anything 3D\"OR\"Segmentation 3D Instance\"OR\"SAM 3D Instance\""
+    keywords["semantic slam"] = "\"Multi-modal SLAM\"OR\"Multi-modal SLAM\"OR\"3D Semantic Segmentation for SLAM\"OR\"Deep Learning for SLAM\"OR\"Object Detection in SLAM\"OR\"Semantic SLAM\""
 
     for topic,keyword in keywords.items():
  
