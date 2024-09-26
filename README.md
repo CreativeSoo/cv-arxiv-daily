@@ -1,4 +1,4 @@
-## Updated on 2024.09.25
+## Updated on 2024.09.26
 
 ## 3d instance segmentation
 
@@ -39,6 +39,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-19**|**Hi-SLAM: Scaling-up Semantics in SLAM with a Hierarchically Categorical Gaussian Splatting**|Boying Li et.al.|[2409.12518v1](http://arxiv.org/abs/2409.12518v1)|null|
 |**2024-08-27**|**Active Semantic Mapping and Pose Graph Spectral Analysis for Robot Exploration**|Rongge Zhang et.al.|[2408.14726v2](http://arxiv.org/abs/2408.14726v2)|**[link](https://github.com/BohemianRhapsodyz/semantic_exploration)**|
 |**2024-06-25**|**SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation**|Xu Liu et.al.|[2406.17249v3](http://arxiv.org/abs/2406.17249v3)|null|
 |**2024-06-09**|**MAP-ADAPT: Real-Time Quality-Adaptive Semantic 3D Maps**|Jianhao Zheng et.al.|[2406.05849v1](http://arxiv.org/abs/2406.05849v1)|null|
@@ -68,5 +69,4 @@
 |**2022-02-25**|**Probabilistic Data Association for Semantic SLAM at Scale**|Elad Michael et.al.|[2202.12802v1](http://arxiv.org/abs/2202.12802v1)|**[link](https://github.com/eladmichael/probabilisticsemslam)**|
 |**2021-09-28**|**KITTI-360: A Novel Dataset and Benchmarks for Urban Scene Understanding in 2D and 3D**|Yiyi Liao et.al.|[2109.13410v2](http://arxiv.org/abs/2109.13410v2)|**[link](https://github.com/autonomousvision/kitti360labeltool)**|
 |**2021-09-20**|**Superquadric Object Representation for Optimization-based Semantic SLAM**|Florian Tschopp et.al.|[2109.09627v1](http://arxiv.org/abs/2109.09627v1)|null|
-|**2021-09-16**|**Evaluating the Impact of Semantic Segmentation and Pose Estimation on Dense Semantic SLAM**|Suman Raj Bista et.al.|[2109.07748v1](http://arxiv.org/abs/2109.07748v1)|null|
 
