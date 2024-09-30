@@ -2,12 +2,13 @@
 layout: default
 ---
 
-## Updated on 2024.09.29
+## Updated on 2024.09.30
 
 ## 3d instance segmentation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-27**|**Search3D: Hierarchical Open-Vocabulary 3D Segmentation**|Ayca Takmaz et.al.|[2409.18431v1](http://arxiv.org/abs/2409.18431v1)|null|
 |**2024-09-12**|**Bayesian Self-Training for Semi-Supervised 3D Segmentation**|Ozan Unal et.al.|[2409.08102v1](http://arxiv.org/abs/2409.08102v1)|null|
 |**2024-08-21**|**EmbodiedSAM: Online Segment Any 3D Thing in Real Time**|Xiuwei Xu et.al.|[2408.11811v1](http://arxiv.org/abs/2408.11811v1)|null|
 |**2024-08-21**|**Open-Ended 3D Point Cloud Instance Segmentation**|Phuc D. A. Nguyen et.al.|[2408.11747v1](http://arxiv.org/abs/2408.11747v1)|null|
@@ -37,7 +38,6 @@ layout: default
 |**2023-12-18**|**Spherical Mask: Coarse-to-Fine 3D Point Cloud Instance Segmentation with Spherical Representation**|Sangyun Shin et.al.|[2312.11269v2](http://arxiv.org/abs/2312.11269v2)|**[link](https://github.com/yunshin/SphericalMask)**|
 |**2023-12-17**|**Open3DIS: Open-Vocabulary 3D Instance Segmentation with 2D Mask Guidance**|Phuc D. A. Nguyen et.al.|[2312.10671v3](http://arxiv.org/abs/2312.10671v3)|**[link](https://github.com/VinAIResearch/Open3DIS)**|
 |**2023-12-13**|**SAM-guided Graph Cut for 3D Instance Segmentation**|Haoyu Guo et.al.|[2312.08372v3](http://arxiv.org/abs/2312.08372v3)|null|
-|**2023-12-12**|**MWSIS: Multimodal Weakly Supervised Instance Segmentation with 2D Box Annotations for Autonomous Driving**|Guangfeng Jiang et.al.|[2312.06988v4](http://arxiv.org/abs/2312.06988v4)|**[link](https://github.com/jiangxb98/mwsis-plugin)**|
 
 ## semantic slam
 
