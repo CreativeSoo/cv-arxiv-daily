@@ -1,4 +1,4 @@
-## Updated on 2024.10.10
+## Updated on 2024.10.11
 
 ## 3d instance segmentation
 
@@ -20,6 +20,7 @@
 |**2024-06-19**|**3D Instance Segmentation Using Deep Learning on RGB-D Indoor Data**|Siddiqui Muhammad Yasir et.al.|[2406.14581v1](http://arxiv.org/abs/2406.14581v1)|null|
 |**2024-06-11**|**PanoSSC: Exploring Monocular Panoptic 3D Scene Reconstruction for Autonomous Driving**|Yining Shi et.al.|[2406.07037v1](http://arxiv.org/abs/2406.07037v1)|null|
 |**2024-06-04**|**Open-YOLO 3D: Towards Fast and Accurate Open-Vocabulary 3D Instance Segmentation**|Mohamed El Amine Boudjoghra et.al.|[2406.02548v2](http://arxiv.org/abs/2406.02548v2)|**[link](https://github.com/aminebdj/openyolo3d)**|
+|**2024-05-30**|**OpenDAS: Open-Vocabulary Domain Adaptation for Segmentation**|Gonca Yilmaz et.al.|[2405.20141v2](http://arxiv.org/abs/2405.20141v2)|null|
 |**2024-05-29**|**Reasoning3D -- Grounding and Reasoning in 3D: Fine-Grained Zero-Shot Open-Vocabulary 3D Reasoning Part Segmentation via Large Vision-Language Models**|Tianrun Chen et.al.|[2405.19326v1](http://arxiv.org/abs/2405.19326v1)|null|
 |**2024-04-18**|**Spot-Compose: A Framework for Open-Vocabulary Object Retrieval and Drawer Manipulation in Point Clouds**|Oliver Lemke et.al.|[2404.12440v1](http://arxiv.org/abs/2404.12440v1)|null|
 |**2024-04-02**|**Segment Any 3D Object with Language**|Seungjun Lee et.al.|[2404.02157v1](http://arxiv.org/abs/2404.02157v1)|null|
@@ -33,7 +34,6 @@
 |**2023-12-17**|**SAI3D: Segment Any Instance in 3D Scenes**|Yingda Yin et.al.|[2312.11557v2](http://arxiv.org/abs/2312.11557v2)|null|
 |**2023-12-18**|**Spherical Mask: Coarse-to-Fine 3D Point Cloud Instance Segmentation with Spherical Representation**|Sangyun Shin et.al.|[2312.11269v2](http://arxiv.org/abs/2312.11269v2)|**[link](https://github.com/yunshin/SphericalMask)**|
 |**2023-12-17**|**Open3DIS: Open-Vocabulary 3D Instance Segmentation with 2D Mask Guidance**|Phuc D. A. Nguyen et.al.|[2312.10671v3](http://arxiv.org/abs/2312.10671v3)|**[link](https://github.com/VinAIResearch/Open3DIS)**|
-|**2023-12-13**|**SAM-guided Graph Cut for 3D Instance Segmentation**|Haoyu Guo et.al.|[2312.08372v3](http://arxiv.org/abs/2312.08372v3)|null|
 
 ## semantic slam
 
