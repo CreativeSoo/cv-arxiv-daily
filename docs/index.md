@@ -2,12 +2,13 @@
 layout: default
 ---
 
-## Updated on 2024.11.04
+## Updated on 2024.11.05
 
 ## 3d instance segmentation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-04**|**MSTA3D: Multi-scale Twin-attention for 3D Instance Segmentation**|Duc Dang Trung Tran et.al.|[2411.01781v1](http://arxiv.org/abs/2411.01781v1)|null|
 |**2024-10-03**|**ProtoSeg: A Prototype-Based Point Cloud Instance Segmentation Method**|Remco Royen et.al.|[2410.02352v1](http://arxiv.org/abs/2410.02352v1)|null|
 |**2024-09-27**|**Search3D: Hierarchical Open-Vocabulary 3D Segmentation**|Ayca Takmaz et.al.|[2409.18431v1](http://arxiv.org/abs/2409.18431v1)|null|
 |**2024-09-12**|**Bayesian Self-Training for Semi-Supervised 3D Segmentation**|Ozan Unal et.al.|[2409.08102v1](http://arxiv.org/abs/2409.08102v1)|null|
@@ -35,7 +36,6 @@ layout: default
 |**2024-01-17**|**GARField: Group Anything with Radiance Fields**|Chung Min Kim et.al.|[2401.09419v1](http://arxiv.org/abs/2401.09419v1)|**[link](https://github.com/chungmin99/garfield)**|
 |**2024-01-15**|**MaskClustering: View Consensus based Mask Graph Clustering for Open-Vocabulary 3D Instance Segmentation**|Mi Yan et.al.|[2401.07745v2](http://arxiv.org/abs/2401.07745v2)|null|
 |**2024-01-04**|**ODIN: A Single Model for 2D and 3D Segmentation**|Ayush Jain et.al.|[2401.02416v3](http://arxiv.org/abs/2401.02416v3)|**[link](https://github.com/ayushjain1144/odin)**|
-|**2023-12-17**|**SAI3D: Segment Any Instance in 3D Scenes**|Yingda Yin et.al.|[2312.11557v2](http://arxiv.org/abs/2312.11557v2)|null|
 |**2023-12-18**|**Spherical Mask: Coarse-to-Fine 3D Point Cloud Instance Segmentation with Spherical Representation**|Sangyun Shin et.al.|[2312.11269v2](http://arxiv.org/abs/2312.11269v2)|**[link](https://github.com/yunshin/SphericalMask)**|
 |**2023-12-17**|**Open3DIS: Open-Vocabulary 3D Instance Segmentation with 2D Mask Guidance**|Phuc D. A. Nguyen et.al.|[2312.10671v3](http://arxiv.org/abs/2312.10671v3)|**[link](https://github.com/VinAIResearch/Open3DIS)**|
 
