@@ -2,12 +2,13 @@
 layout: default
 ---
 
-## Updated on 2024.11.06
+## Updated on 2024.11.07
 
 ## 3d instance segmentation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-06**|**SA3DIP: Segment Any 3D Instance with Potential 3D Priors**|Xi Yang et.al.|[2411.03819v1](http://arxiv.org/abs/2411.03819v1)|**[link](https://github.com/ryang41/sa3dip)**|
 |**2024-11-04**|**MSTA3D: Multi-scale Twin-attention for 3D Instance Segmentation**|Duc Dang Trung Tran et.al.|[2411.01781v2](http://arxiv.org/abs/2411.01781v2)|null|
 |**2024-10-03**|**ProtoSeg: A Prototype-Based Point Cloud Instance Segmentation Method**|Remco Royen et.al.|[2410.02352v1](http://arxiv.org/abs/2410.02352v1)|null|
 |**2024-09-27**|**Search3D: Hierarchical Open-Vocabulary 3D Segmentation**|Ayca Takmaz et.al.|[2409.18431v1](http://arxiv.org/abs/2409.18431v1)|null|
@@ -37,7 +38,6 @@ layout: default
 |**2024-01-15**|**MaskClustering: View Consensus based Mask Graph Clustering for Open-Vocabulary 3D Instance Segmentation**|Mi Yan et.al.|[2401.07745v2](http://arxiv.org/abs/2401.07745v2)|null|
 |**2024-01-04**|**ODIN: A Single Model for 2D and 3D Segmentation**|Ayush Jain et.al.|[2401.02416v3](http://arxiv.org/abs/2401.02416v3)|**[link](https://github.com/ayushjain1144/odin)**|
 |**2023-12-18**|**Spherical Mask: Coarse-to-Fine 3D Point Cloud Instance Segmentation with Spherical Representation**|Sangyun Shin et.al.|[2312.11269v2](http://arxiv.org/abs/2312.11269v2)|**[link](https://github.com/yunshin/SphericalMask)**|
-|**2023-12-17**|**Open3DIS: Open-Vocabulary 3D Instance Segmentation with 2D Mask Guidance**|Phuc D. A. Nguyen et.al.|[2312.10671v3](http://arxiv.org/abs/2312.10671v3)|**[link](https://github.com/VinAIResearch/Open3DIS)**|
 
 ## semantic slam
 
