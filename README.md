@@ -1,9 +1,10 @@
-## Updated on 2024.11.12
+## Updated on 2024.11.13
 
 ## 3d instance segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**Horticultural Temporal Fruit Monitoring via 3D Instance Segmentation and Re-Identification using Point Clouds**|Daniel Fusaro et.al.|[2411.07799v1](http://arxiv.org/abs/2411.07799v1)|**[link](https://github.com/prbonn/iris3d)**|
 |**2024-11-06**|**SA3DIP: Segment Any 3D Instance with Potential 3D Priors**|Xi Yang et.al.|[2411.03819v1](http://arxiv.org/abs/2411.03819v1)|**[link](https://github.com/ryang41/sa3dip)**|
 |**2024-11-04**|**MSTA3D: Multi-scale Twin-attention for 3D Instance Segmentation**|Duc Dang Trung Tran et.al.|[2411.01781v3](http://arxiv.org/abs/2411.01781v3)|null|
 |**2024-10-03**|**ProtoSeg: A Prototype-Based Point Cloud Instance Segmentation Method**|Remco Royen et.al.|[2410.02352v1](http://arxiv.org/abs/2410.02352v1)|null|
@@ -33,7 +34,6 @@
 |**2024-01-17**|**GARField: Group Anything with Radiance Fields**|Chung Min Kim et.al.|[2401.09419v1](http://arxiv.org/abs/2401.09419v1)|**[link](https://github.com/chungmin99/garfield)**|
 |**2024-01-15**|**MaskClustering: View Consensus based Mask Graph Clustering for Open-Vocabulary 3D Instance Segmentation**|Mi Yan et.al.|[2401.07745v2](http://arxiv.org/abs/2401.07745v2)|null|
 |**2024-01-04**|**ODIN: A Single Model for 2D and 3D Segmentation**|Ayush Jain et.al.|[2401.02416v3](http://arxiv.org/abs/2401.02416v3)|**[link](https://github.com/ayushjain1144/odin)**|
-|**2023-12-18**|**Spherical Mask: Coarse-to-Fine 3D Point Cloud Instance Segmentation with Spherical Representation**|Sangyun Shin et.al.|[2312.11269v2](http://arxiv.org/abs/2312.11269v2)|**[link](https://github.com/yunshin/SphericalMask)**|
 
 ## semantic slam
 
