@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.02
+## Updated on 2024.12.03
 
 ## 3d instance segmentation
 
@@ -47,7 +47,7 @@ layout: default
 |**2024-10-16**|**Towards Autonomous Indoor Parking: A Globally Consistent Semantic SLAM System and A Semantic Localization Subsystem**|Yichen Sha et.al.|[2410.12169v1](http://arxiv.org/abs/2410.12169v1)|null|
 |**2024-09-19**|**Hi-SLAM: Scaling-up Semantics in SLAM with a Hierarchically Categorical Gaussian Splatting**|Boying Li et.al.|[2409.12518v2](http://arxiv.org/abs/2409.12518v2)|null|
 |**2024-08-27**|**Active Semantic Mapping and Pose Graph Spectral Analysis for Robot Exploration**|Rongge Zhang et.al.|[2408.14726v2](http://arxiv.org/abs/2408.14726v2)|**[link](https://github.com/BohemianRhapsodyz/semantic_exploration)**|
-|**2024-06-25**|**SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation**|Xu Liu et.al.|[2406.17249v4](http://arxiv.org/abs/2406.17249v4)|null|
+|**2024-06-25**|**SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation**|Xu Liu et.al.|[2406.17249v4](http://arxiv.org/abs/2406.17249v4)|**[link](https://github.com/xurobotics/slide_slam)**|
 |**2024-06-09**|**MAP-ADAPT: Real-Time Quality-Adaptive Semantic 3D Maps**|Jianhao Zheng et.al.|[2406.05849v1](http://arxiv.org/abs/2406.05849v1)|null|
 |**2024-03-19**|**Opti-Acoustic Semantic SLAM with Unknown Objects in Underwater Environments**|Kurran Singh et.al.|[2403.12837v2](http://arxiv.org/abs/2403.12837v2)|null|
 |**2024-03-18**|**NEDS-SLAM: A Neural Explicit Dense Semantic SLAM Framework using 3D Gaussian Splatting**|Yiming Ji et.al.|[2403.11679v3](http://arxiv.org/abs/2403.11679v3)|null|
